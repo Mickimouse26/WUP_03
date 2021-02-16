@@ -43,6 +43,8 @@ This box plot shows that the heavy drinkers are mostly in the back.
  favstats(alcohol~Seat,data=davisdata)
 ```
 
+People that sit in the back drinks extremely more alcohol than the people in the middle and the front per this data.
+
 ## Inferential Tests
 
 ## Conclusions
