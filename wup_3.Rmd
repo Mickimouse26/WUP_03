@@ -47,6 +47,21 @@ People that sit in the back drinks extremely more alcohol than the people in the
 
 ## Inferential Tests
 
+# Inferential
+
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+The p-value is so small that it is unlikely that the consumption of alcohol in all three selections of seats are the same.
+
+## When significant follow up with TukeyHSD  
+
+```{r}
+plot(TukeyHSD(model1))
+```
+
+
 ## Conclusions
 
 
