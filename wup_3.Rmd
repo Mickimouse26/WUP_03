@@ -39,6 +39,10 @@ This box plot shows that the heavy drinkers are mostly in the back.
 
 ## Numerical Summarys 
 
+```{r}
+ favstats(alcohol~Seat,data=davisdata)
+```
+
 ## Inferential Tests
 
 ## Conclusions
