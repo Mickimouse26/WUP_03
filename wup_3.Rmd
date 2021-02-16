@@ -61,6 +61,8 @@ The p-value is so small that it is unlikely that the consumption of alcohol in a
 plot(TukeyHSD(model1))
 ```
 
+The TukeyHSD plot shows that people in the back drink more than the ones in the middle and the front drink less than everyone. There's no evidence of alcohol consumption being the same
+
 
 ## Conclusions
 
