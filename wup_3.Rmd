@@ -66,4 +66,5 @@ The TukeyHSD plot shows that people in the back drink more than the ones in the 
 
 ## Conclusions
 
+The evidence show that most of the people that consume a lot of alcohol tends ro sit in the back.
 
